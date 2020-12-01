@@ -23,7 +23,7 @@ I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Web Pages </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
+<img align ="right" src = "https://pbs.twimg.com/profile_images/1011277014924496897/aTMLLVVZ_400x400.jpg" width="250" height="250">
 
 - 🔭 I’m currently working on RealTime communication website
 - 🌱 I’m currently learning JS
@@ -36,7 +36,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 **Languages and Tools:**
 
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Angular/Angular.png">&nbsp; 
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
