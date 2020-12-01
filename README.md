@@ -35,7 +35,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 - 🇮🇳 Proudly Indian
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=1)](https://github.com/SravanKumarBattu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=1)](https://github.com/SravanKumarBattu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=0)](https://github.com/SravanKumarBattu/github-readme-stats)
 
  
 
