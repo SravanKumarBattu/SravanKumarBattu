@@ -34,6 +34,12 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 - ⚡ Fun fact: I need Music 🎵 while Coding...
 - 🇮🇳 Proudly Indian
 
+
+[![SravanKumar's github stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)](https://github.com/SravanKumarBattu/github-readme-stats)   
+
+Visitors count    
+![VisitorCount](https://profile-counter.glitch.me/SravanKumarBattu/count.svg)   
+
 **Languages and Tools:**
 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">&nbsp; 
@@ -48,3 +54,5 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 
 
 [![Sravankumar's Github Stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)
+
+I always Love Hackathons 
