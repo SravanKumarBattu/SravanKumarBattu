@@ -34,9 +34,9 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 - ⚡ Fun fact: I need Music 🎵 while Coding...
 - 🇮🇳 Proudly Indian
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=1)](https://github.com/SravanKumarBattu/github-readme-stats)
 
-[![SravanKumar's github stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)](https://github.com/SravanKumarBattu/github-readme-stats)   
-
+ 
 Visitors count    
 ![VisitorCount](https://profile-counter.glitch.me/SravanKumarBattu/count.svg)   
 
