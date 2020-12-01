@@ -1,16 +1,50 @@
-### Hi there 👋
+ ## Hi, I'm SravanKumarBattu👋
+<b>Lover of Technology ⚡ |Developer 📱 | Innovator 💙 | IBM WATSON 🔥</b>
 
-<!--
-**SravanKumarBattu/SravanKumarBattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/sravan-kumar-battu/">
+  <img align="left" alt="SravanKumar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/i_m_untraceable/">
+  <img align="left" alt="Sravan Kumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="mailto:sravankumarsky1234@gmail.com">
+  <img align="left" alt="Sravankumar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br/>
+<br/>
+
+I'm extremely passionate about Technology.
+<b>#SelfTaught</b> Developer and makes <b>Web Pages </b>Apps.
+I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
+
+<img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
+
+- 🔭 I’m currently working on RealTime communication website
+- 🌱 I’m currently learning JS
+- 👯 I’m looking to collaborate 
+- 🤔 I’m looking for help with WebRTC
+- 💬 Ask me about Angular | Chatbot & any Tech Stuff
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I need Music 🎵 while Coding...
+- 🇮🇳 Proudly Indian
+
+**Languages and Tools:**
+
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Angular/Angular.png">&nbsp; 
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp; 
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp; 
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">&nbsp;
+
+
+[![Sravankumar's Github Stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)
