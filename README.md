@@ -1,5 +1,7 @@
  ## Hi, I'm SravanKumarBattu👋
 <b>Lover of Technology ⚡ |Developer 📱 | Innovator 💙 | IBM WATSON 🔥</b>
+<h6>VNR VJIET</h6>
+<p>INF TECH II year</p>
 
  
 
