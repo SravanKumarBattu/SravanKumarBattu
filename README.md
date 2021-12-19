@@ -20,16 +20,15 @@
 
 <br/>
 <br/>
-<a href="https://sravankumarbattu.github.io/Profil.github.io/">
-  <img align="right" alt="PortFolio" width="50px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
-</a>
+
 
 I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Web Pages </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<img align ="right" src = "https://pbs.twimg.com/profile_images/1011277014924496897/aTMLLVVZ_400x400.jpg" width="250" height="250">
-
+<a href="https://sravankumarbattu.github.io/Profil.github.io/">
+  <img align="right" alt="PortFolio" width="50px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
+</a>
 - 🔭 I’m currently working on Frontend Developer
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about Science| Space & any Tech Stuff
