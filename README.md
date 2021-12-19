@@ -27,7 +27,7 @@ I'm extremely passionate about Technology.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
 <a href="https://sravankumarbattu.github.io/Profil.github.io/">
-  <img align="right" alt="PortFolio" width="50px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
+  <img align="right" alt="PortFolio" width="220px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
 </a>
 - 🔭 I’m currently working on Frontend Developer
 - 🌱 I’m currently learning Angular
