@@ -3,9 +3,7 @@
 <h6>VNR VJIET</h6>
 <p>INF TECH II year</p>
 
- <a href="https://sravankumarbattu.github.io/Profil.github.io/">
-  <img align="left" alt="PortFolio" width="22px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
-</a>
+ 
 
 <a href="https://www.linkedin.com/in/sravan-kumar-battu/">
   <img align="left" alt="SravanKumar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,6 +20,9 @@
 
 <br/>
 <br/>
+<a href="https://sravankumarbattu.github.io/Profil.github.io/">
+  <img align="right" alt="PortFolio" width="50px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
+</a>
 
 I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Web Pages </b>Apps.
