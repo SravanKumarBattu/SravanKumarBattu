@@ -26,8 +26,7 @@ I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Web Pages </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<a href="https://sravankumarbattu.github.io/Profil.github.io/">
-  <img align="right" alt="PortFolio" width="220px" src="https://sravankumarbattu.github.io/Profil.github.io/assets/img/download.png" />
+<a href="https://sravankumarbattu.github.io/Profil.github.io/"> 
 </a>
 - 🔭 I’m currently working on Frontend Developer
 - 🌱 I’m currently learning Angular
@@ -37,13 +36,15 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 - 🇮🇳 Proudly Indian
 
  
-[![Top lags](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=0)](https://github.com/SravanKumarBattu/github-readme-stats)
-
  
 
  
 Visitors count    
 ![VisitorCount](https://profile-counter.glitch.me/SravanKumarBattu/count.svg)   
+
+
+[![Top lags](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=0)](https://github.com/SravanKumarBattu/github-readme-stats)
+
 
 **Languages and Tools:**
 
