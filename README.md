@@ -28,6 +28,7 @@ Visitors count
 
  
 [![Sravankumar's Github Stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top lags](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=0)](https://github.com/SravanKumarBattu/github-readme-stats)
