@@ -45,3 +45,4 @@ Visitors count
  
 
 Accepting to Code it.
+[![Sravan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SravanKumarBattu)](https://github.com/SravanKumarBattu/github-readme-stats)
