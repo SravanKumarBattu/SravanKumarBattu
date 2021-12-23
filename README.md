@@ -43,6 +43,7 @@ Visitors count
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp; 
  
+[![SravanKumarBattu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/SravanKumarBattu/github-readme-stats)
+
 
 Accepting to Code it.
-[![Sravan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SravanKumarBattu)](https://github.com/SravanKumarBattu/github-readme-stats)
