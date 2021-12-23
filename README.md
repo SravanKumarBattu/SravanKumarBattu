@@ -26,12 +26,9 @@
 Visitors count    
 ![VisitorCount](https://profile-counter.glitch.me/SravanKumarBattu/count.svg)   
 
- 
-[![Sravankumar's Github Stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Sravankumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravanKumarBattu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&layout=compact)](https://github.com/SravanKumarBattu/github-readme-stats)
 
-
-[![Top lags](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanKumarBattu&hide_langs_below=0)](https://github.com/SravanKumarBattu/github-readme-stats)
 
 
 **Languages and Tools:**
